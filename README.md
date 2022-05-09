@@ -9,11 +9,6 @@ var ref = (''+document.referrer+'');var pn =  window.location;var w_h = window.s
 fhs.src = "//freehostedscripts.net/ocounter.php?site="+fhs_id+"&e1=Online User&e2=Online Users&r="+ref+"&wh="+w_h+"&a=1&pn="+pn+"";
 document.head.appendChild(fhs);document.write("<span id='o_"+fhs_id+"'></span>");
 </script>
-•
-<script language="JavaScript">var fhsh = document.createElement('script');var fhs_id_h = "3369479";
-fhsh.src = "//freehostedscripts.net/ocount.php?site="+fhs_id_h+"&name=Visits&a=1";
-document.head.appendChild(fhsh);document.write("<span id='h_"+fhs_id_h+"'></span>");
-</script>
  
  <!--
 **bulletproof2k/bulletproof2k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
