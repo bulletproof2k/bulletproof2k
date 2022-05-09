@@ -2,9 +2,8 @@
 
 <a href="https://wakatime.com/badge/github/bulletproof2k/Feeds"><img src="https://wakatime.com/badge/github/bulletproof2k/Feeds.svg" alt="wakatime"></a>
 
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=bulletproof2k&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=bulletproof2k&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
  
-  [![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bulletproof2k&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
   <!--
 **bulletproof2k/bulletproof2k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
