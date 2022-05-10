@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<a href="https://wakatime.com/badge/github/bulletproof2k/Feeds"><img src="https://wakatime.com/badge/github/bulletproof2k/Feeds.svg" alt="wakatime"></a> [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)](https://hits.seeyoufarm.com)
+<a href="https://wakatime.com/badge/github/bulletproof2k/Feeds"><img src="https://wakatime.com/badge/github/bulletproof2k/Feeds.svg" alt="wakatime"></a> ![Code Time](https://img.shields.io/endpoint?style=flat&url=https://codetime-api.datreks.com/badge/4240?logoColor=white%26project=%26recentMS=0%26showProject=false) [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)](https://hits.seeyoufarm.com)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=bulletproof2k&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)           
  
