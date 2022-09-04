@@ -5,7 +5,7 @@
 
 ![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=bulletproof2k&count=1&width=600&loved=true&loved_style=3)
 
-![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=bulletproof2k&width=600&loved=true&loved_style=4)
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=bulletproof2k&width=600)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=bulletproof2k&locale=ru)](https://git.io/streak-stats)
 
