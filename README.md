@@ -7,7 +7,7 @@
 
 ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=bulletproof2k&width=600)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=bulletproof2k&locale=ru)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=bulletproof2k&locale=ru&width=600)](https://git.io/streak-stats)
 
 <!--
 **bulletproof2k/bulletproof2k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
