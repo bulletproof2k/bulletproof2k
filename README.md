@@ -1,7 +1,7 @@
 ### 👋 Hi there
 ### 🧑‍💻 I’m currently working on ...
 
-[![wakatime](https://wakatime.com/badge/user/b3fb2aa2-104d-4dd8-bef2-99ef978c4248.svg)](https://wakatime.com/@b3fb2aa2-104d-4dd8-bef2-99ef978c4248) [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)](https://hits.seeyoufarm.com)
+[![wakatime](https://wakatime.com/badge/user/b3fb2aa2-104d-4dd8-bef2-99ef978c4248.svg)](https://wakatime.com/@b3fb2aa2-104d-4dd8-bef2-99ef978c4248) [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)](https://hits.seeyoufarm.com) ![](https://komarev.com/ghpvc/?username=your-github-bulletproof2k&color=blueviolet)
 
 ![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=bulletproof2k&width=600&loved=true)
 
