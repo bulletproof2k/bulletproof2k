@@ -4,7 +4,7 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=bulletproof2k&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=JeffreyCA01&width=600)
+![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=bulletproof2k01&width=600)
 
 <!--
 **bulletproof2k/bulletproof2k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
