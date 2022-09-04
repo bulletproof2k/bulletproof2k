@@ -2,11 +2,11 @@
 
 [![wakatime](https://wakatime.com/badge/user/b3fb2aa2-104d-4dd8-bef2-99ef978c4248.svg)](https://wakatime.com/@b3fb2aa2-104d-4dd8-bef2-99ef978c4248) [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)](https://hits.seeyoufarm.com)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=bulletproof2k&locale=ru)](https://git.io/streak-stats)
-
 ![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=bulletproof2k&width=600&loved=true)
 
 ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=bulletproof2k&width=600)
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=bulletproof2k&locale=ru)](https://git.io/streak-stats&width=600)
 
 <!--
 **bulletproof2k/bulletproof2k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
