@@ -9,7 +9,7 @@
 
 ![Contribution](https://activity-graph.herokuapp.com/graph?username=bulletproof2k&theme=react-dark&hide_border=true&area=true)
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=bulletproof2k)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![bulletproof2k's github activity graph](https://activity-graph.herokuapp.com/graph?username=bulletproof2k)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=bulletproof2k&locale=ru&fire=DD2727&border=DD2727)](https://git.io/streak-stats)
 
