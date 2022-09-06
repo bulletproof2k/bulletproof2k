@@ -1,11 +1,11 @@
 ### 👋 Hi there
 ### 🧑‍💻 I’m currently working on ...
 
-[![wakatime](https://wakatime.com/badge/user/b3fb2aa2-104d-4dd8-bef2-99ef978c4248.svg)](https://wakatime.com/@b3fb2aa2-104d-4dd8-bef2-99ef978c4248) [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbulletproof2k%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) ![](https://komarev.com/ghpvc/?username=your-github-bulletproof2k&color=blueviolet) ![TG:@bulletproof2k](https://img.shields.io/badge/-TG:@bulletproof2k-red?color=blue&logo=telegram&logoColor=white)
+[![wakatime](https://wakatime.com/badge/user/b3fb2aa2-104d-4dd8-bef2-99ef978c4248.svg)](https://wakatime.com/@b3fb2aa2-104d-4dd8-bef2-99ef978c4248) [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbulletproof2k%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) ![](https://komarev.com/ghpvc/?username=your-github-bulletproof2k&color=blueviolet) ![@bulletproof2k](https://img.shields.io/badge/-@bulletproof2k-red?color=blue&logo=telegram&logoColor=white)
 
 ![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=bulletproof2k&count=1&width=600&loved=true&loved_style=3)
 
-![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=bulletproof2k&width=600)
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=bulletproof2k&count=3&width=600)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=bulletproof2k&locale=ru)](https://git.io/streak-stats)
 
