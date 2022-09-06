@@ -7,8 +7,6 @@
 
 ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=bulletproof2k&count=3&width=600)
 
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/bulletproof2k?si=83c87013bc214d7f)
-
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=bulletproof2k&locale=ru&fire=DD2727&border=DD2727)](https://git.io/streak-stats)
 
 ![Contribution](https://activity-graph.herokuapp.com/graph?username=bulletproof2k&theme=react-dark&hide_border=true&area=true)
