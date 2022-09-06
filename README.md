@@ -7,7 +7,7 @@
 
 ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=bulletproof2k&count=3&width=600)
 
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/artist/4BKyei61gtyDFxlKhcvBJJ?si=IVPyNZedTSKl9SGvry4vRQ)
+[![Spotify](https://bulletproof2k.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/artist/6hyCmqlpgEhkMKKr65sFgI)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=bulletproof2k&locale=ru&fire=DD2727&border=DD2727)](https://git.io/streak-stats)
 
