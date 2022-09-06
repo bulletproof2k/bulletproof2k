@@ -11,6 +11,8 @@
 
 ![Contribution](https://activity-graph.herokuapp.com/graph?username=bulletproof2k&theme=react-dark&hide_border=true&area=true)
 
+![Snake animation](https://github.com/bulletproof2k/github-readme/blob/output/github-contribution-snake.svg)
+
 <!--
 **bulletproof2k/bulletproof2k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
