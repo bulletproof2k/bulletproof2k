@@ -9,8 +9,6 @@
 
 ![Contribution](https://activity-graph.herokuapp.com/graph?username=bulletproof2k&theme=react-dark&hide_border=true&area=true)
 
-[![bulletproof2k's github activity graph](https://activity-graph.herokuapp.com/graph?username=bulletproof2k)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=bulletproof2k&locale=ru&fire=DD2727&border=DD2727)](https://git.io/streak-stats)
 
 <a href="https://www.linkedin.com/in/victorminin/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
