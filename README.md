@@ -1,5 +1,5 @@
 ### 👋 Hi there, I'm Victor
-### 🧑‍💻 I’m currently working on ...
+### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif alt="drawing" width="10"/>🧑‍💻 I’m currently working on ...
 
 [![Visual Studio Code](https://img.shields.io/badge/--007ACC?logo=visual%20studio%20code&logoColor=ffffff)](https://code.visualstudio.com/) [![wakatime](https://wakatime.com/badge/user/b3fb2aa2-104d-4dd8-bef2-99ef978c4248.svg)](https://wakatime.com/@b3fb2aa2-104d-4dd8-bef2-99ef978c4248) [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbulletproof2k%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) ![](https://komarev.com/ghpvc/?username=your-github-bulletproof2k&color=blueviolet) ![@bulletproof2k](https://img.shields.io/badge/-@bulletproof2k-red?color=blue&logo=telegram&logoColor=white)
 
