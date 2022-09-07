@@ -14,7 +14,7 @@
 <a href="https://www.linkedin.com/in/victorminin/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://www.instagram.com/bulletproof2k/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 <a href="https://www.facebook.com/bulletproof2k" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
-<a href="https://open.spotify.com/user/bulletproof2k?si=1bddbd2dfe2249ae" target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a>
+<a href="https://open.spotify.com/user/bulletproof2k?si=1bddbd2dfe2249ae" target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a> ![Sound Cloud](https://img.shields.io/badge/sound%20cloud-bulletproof2k?style=for-the-badge&logo=soundcloud&logoColor=white)
 <!--
 **bulletproof2k/bulletproof2k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
