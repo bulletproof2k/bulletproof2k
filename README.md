@@ -7,6 +7,8 @@
 
 ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=bulletproof2k&count=3&width=495)
 
+<a target="_blank" href="https://trakt.tv/users/bulletproof2k"><img width="500" height="133" alt="bulletproof2k" src="https://widgets.trakt.tv/users/bd2a8383438c007db63b45e68664ec6e/watched/banner@2x.jpg" /></a>
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=bulletproof2k&theme=github-dark&locale=ru&fire=DD2727)](https://git.io/streak-stats)
 
 <a href="https://www.linkedin.com/in/victorminin/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
