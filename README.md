@@ -5,7 +5,7 @@
 
 ![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=bulletproof2k&count=1&width=495&loved=true&loved_style=3)
 
-![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=bulletproof2k&width=500)
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=bulletproof2k&width=500&count=3)
 
 <img src="https://trakt-widgets.herokuapp.com/bulletproof2k/watched/banner?language=en" style="max-width: 50%;" alt="trakt-widget"/>
 
