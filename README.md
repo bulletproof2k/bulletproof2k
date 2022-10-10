@@ -5,7 +5,7 @@
 
 ![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=bulletproof2k&count=1&width=495&loved=true&loved_style=3)
 
-<img src="https://trakt-widgets.herokuapp.com/bulletproof2k/watched/banner?language=en" alt="trakt-widget"/> style="max-width: 100%;">
+<img src="https://trakt-widgets.herokuapp.com/bulletproof2k/watched/banner?language=en" alt="trakt-widget"style="max-width: 100%;">
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=bulletproof2k&theme=github-dark&locale=ru&fire=DD2727)](https://git.io/streak-stats)
 
