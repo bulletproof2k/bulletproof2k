@@ -7,7 +7,7 @@
 
 ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=bulletproof2k&width=500&count=3)
 
-<img src="https://trakt-widgets.herokuapp.com/bulletproof2k/watching/banner?language=en" width="500" alt="trakt-widget"/>
+<img src="https://trakt-widgets.herokuapp.com/bulletproof2k/watched/banner?language=en" width="500" alt="trakt-widget"/>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=bulletproof2k&theme=github-dark&locale=ru&fire=DD2727)](https://git.io/streak-stats)
 
