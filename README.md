@@ -7,7 +7,7 @@
 
 ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=bulletproof2k&count=3&width=495)
 
-<img src="https://trakt-widgets.herokuapp.com/pizidavi/profile/banner?language=en" alt="trakt-widget"/>
+<img src="https://camo.githubusercontent.com/ae342418cb6aee152769398cf65c354098a8e8072e9eed1e02482f7bb71d16cb/68747470733a2f2f7472616b742d776964676574732e6865726f6b756170702e636f6d2f70697a69646176692f776174636865642f62616e6e6572" alt="watched" data-canonical-src="https://trakt-widgets.herokuapp.com/bulletproof2k/watched/banner" style="max-width: 100%;">
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=bulletproof2k&theme=github-dark&locale=ru&fire=DD2727)](https://git.io/streak-stats)
 
