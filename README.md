@@ -5,9 +5,7 @@
 
 ![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=bulletproof2k&count=1&width=495&loved=true&loved_style=3)
 
-![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=bulletproof2k&count=3&width=495)
-
-<img src="https://trakt-widgets.herokuapp.com/bulletproof2k/card/banner?language=en" alt="trakt-widget"/>
+<img src="https://trakt-widgets.herokuapp.com/bulletproof2k/profile/card?language=en" alt="trakt-widget"/>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=bulletproof2k&theme=github-dark&locale=ru&fire=DD2727)](https://git.io/streak-stats)
 
