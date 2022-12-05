@@ -9,7 +9,7 @@
 
 <img src="https://trakt-widgets.vercel.app/bulletproof2k/watched/banner?language=en" width="500" alt="trakt-widget" />
 
-<img src="https://trakt-widgets.vercel.app/bulletproof2k/watched/banner?language=en" alt="trakt-widget" />
+<img src="https://trakt-widgets.vercel.app/pizidavi/watched/banner" alt="trakt-widget" />
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=bulletproof2k&theme=github-dark&locale=ru&fire=DD2727)](https://git.io/streak-stats)
 
