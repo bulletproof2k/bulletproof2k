@@ -7,7 +7,7 @@
 
 ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=bulletproof2k&width=500&count=3)
 
-<img src="https://trakt-widgets.vercel.app/bulletproof2k/watched/banner?language=ru" width="500" alt="trakt-widget" />
+<img src="https://trakt-widgets.vercel.app/bulletproof2k/watched/banner" width="500" alt="trakt-widget" />
 
 <div><a target="_blank" rel="nofollow" title="LiveLib" href="https://www.livelib.ru/challenge/2022/reader/bulletproof2k"><img alt="LiveLib" src="https://u.livelib.ru/reader/bulletproof2k/challenge2022.png" width="500" style="border: 0;"></a></div>
 
