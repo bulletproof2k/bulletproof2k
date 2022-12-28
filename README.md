@@ -9,6 +9,8 @@
 
 <img src="https://trakt-widgets.vercel.app/bulletproof2k/watched/banner?language=en" width="500" alt="trakt-widget" />
 
+<img src="https://trakt-widgets.vercel.app/pizidavi/watched/banner" width="500" alt="trakt-widget" />
+
 <div><a target="_blank" rel="nofollow" title="LiveLib" href="https://www.livelib.ru/challenge/2022/reader/bulletproof2k"><img alt="LiveLib" src="https://u.livelib.ru/reader/bulletproof2k/challenge2022.png" width="500" style="border: 0;"></a></div>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=bulletproof2k&theme=github-dark&locale=ru&fire=DD2727)](https://git.io/streak-stats)
