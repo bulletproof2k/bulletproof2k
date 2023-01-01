@@ -4,7 +4,6 @@
 [![Visual Studio Code](https://img.shields.io/badge/--333333?logo=visual%20studio%20code&logoColor=0080f0)](https://code.visualstudio.com/) [![Sublime Text](https://img.shields.io/badge/--4D4D4D?logo=sublime%20text&logoColor=ffa500)](https://www.sublimetext.com/) [![Atom](https://img.shields.io/badge/--60c384?logo=atom&logoColor=ffffff)](https://atom.io/) [![wakatime](https://wakatime.com/badge/user/b3fb2aa2-104d-4dd8-bef2-99ef978c4248.svg)](https://wakatime.com/@b3fb2aa2-104d-4dd8-bef2-99ef978c4248) ![](https://komarev.com/ghpvc/?username=your-github-bulletproof2k&color=blueviolet) ![@bulletproof2k](https://img.shields.io/badge/-@bulletproof2k-red?color=blue&logo=telegram&logoColor=white)
 
 ![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=bulletproof2k&count=1&width=495&loved=true&loved_style=3)
-
 ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=bulletproof2k&width=500&count=3)
 
 <img src="https://trakt-widgets.vercel.app/bulletproof2k/watched/banner" width="500" alt="trakt-widget" />
