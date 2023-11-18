@@ -10,7 +10,7 @@
 <img src="https://trakt-widgets.vercel.app/bulletproof2k/watched/banner" width="500" alt="trakt-widget" />
 
 <h3 align="left">I am currently reading:</h3>
-<a href="<Your Profile URL>"><img src="https://goodreads-readme.vercel.app/api/book?id=68642776" alt="GoodReads reading" width="350" /></a>
+<a href="<Your Profile URL>"><img src="https://goodreads-readme.vercel.app/api/book?id=68642776" alt="GoodReads reading" width="500" /></a>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=bulletproof2k&theme=github-dark&locale=ru&fire=DD2727)](https://git.io/streak-stats)
 
