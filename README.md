@@ -1,18 +1,14 @@
 ### 👋 Hi there, I'm Victor
 ### 🧑‍💻 I’m currently working on ...
 
-[![Sublime Text](https://img.shields.io/badge/--4D4D4D?logo=sublime%20text&logoColor=ffa500)](https://www.sublimetext.com/) [![wakatime](https://wakatime.com/badge/user/b3fb2aa2-104d-4dd8-bef2-99ef978c4248.svg)](https://wakatime.com/@b3fb2aa2-104d-4dd8-bef2-99ef978c4248) ![](https://komarev.com/ghpvc/?username=your-github-bulletproof2k&color=blueviolet) ![@bulletproof2k](https://img.shields.io/badge/-@bulletproof2k-red?color=blue&logo=telegram&logoColor=white)
+[![Sublime Text](https://img.shields.io/badge/--4D4D4D?logo=sublime%20text&logoColor=ffa500)](https://www.sublimetext.com/) [![wakatime]()](https://wakatime.com/@b3fb2aa2-104d-4dd8-bef2-99ef978c4248) ![](https://komarev.com/ghpvc/?username=your-github-bulletproof2k&color=blueviolet) ![@bulletproof2k](https://img.shields.io/badge/-@bulletproof2k-red?color=blue&logo=telegram&logoColor=white)
 
 ![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=bulletproof2k&count=1&width=495&loved=true&loved_style=3)
-
-![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=bulletproof2k&width=500&count=3)
 
 <img src="https://trakt-widgets.vercel.app/bulletproof2k/watched/banner" width="500" alt="trakt-widget" />
 
 <h3 align="left">I am currently reading:</h3>
 <a href="<Your Profile URL>"><img src="https://goodreads-readme.vercel.app/api/book?id=68642776" alt="GoodReads reading" width="500" /></a>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=bulletproof2k&theme=github-dark&locale=ru&fire=DD2727)](https://git.io/streak-stats)
 
 <a href="https://www.linkedin.com/in/victorminin/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://www.instagram.com/bulletproof2k/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
